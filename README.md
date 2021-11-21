@@ -1,6 +1,6 @@
 # crowdfunding-product-page-main
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
+![image](https://github.com/molszewski34/crowdfunding-product-page-main/blob/main/Crowdfund-page.png)
 
 crowdfunding-product-page-main is a simple site build with html,css and javascript. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR)
 
