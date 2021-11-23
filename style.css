@@ -560,7 +560,7 @@ input[type="number"]{
     font-weight: bold;
     font-size: 1rem;
     padding: 0 3vw;
-    background-image: url(/images/icon-dollar.svg);
+    background-image: url(images/icon-dollar.svg);
     background-repeat: no-repeat;
    background-position: 2vw 50% ;;
 }
