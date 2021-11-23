@@ -19,7 +19,7 @@ hamburgerBtn.addEventListener("click", (evt) => {
     }
 
     else {
-        hamburgerImg.setAttribute('src', "/images/icon-hamburger.svg");
+        hamburgerImg.setAttribute('src', "images/icon-hamburger.svg");
     }
     menu.classList.toggle("menu__open");
     body.classList.toggle("no-scroll");
